@@ -1,5 +1,5 @@
 #Import json
-import persistencia_json
+import persistencia_json as pj
 
 #List creation
 
