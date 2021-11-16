@@ -21,7 +21,7 @@ while True:
 
 #Write file
 
-pj.store(lista.coches, "Coches.txt")
+pj.store(list, "Coches.txt")
 
 #Clear list
 
